@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oiee, seja bem-vindo ao meu perfil <3
 
-<!--
-**emillyfarias29/emillyfarias29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Emilly Farias
 
-Here are some ideas to get you started:
+- atualmente estou no primeiro ano do ensino médio
+- estou também estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   **se quiser entrar em contato**
+
+   00001128481935sp@al.educacao.sp.gov.br
+
+
+   https://tenor.com/hGQWnurLJum.gif
